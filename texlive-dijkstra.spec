@@ -1,6 +1,6 @@
 Name:		texlive-dijkstra
 Version:	64580
-Release:	1
+Release:	2
 Summary:	Dijkstra algorithm for LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/dijkstra
