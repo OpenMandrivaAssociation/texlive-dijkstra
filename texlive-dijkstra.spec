@@ -3,7 +3,7 @@ Version:	64580
 Release:	2
 Summary:	Dijkstra algorithm for LaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/dijkstra
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/dijkstra
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/dijkstra.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/dijkstra.doc.r%{version}.tar.xz
